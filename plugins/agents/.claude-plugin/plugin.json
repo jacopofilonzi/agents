@@ -1,0 +1,8 @@
+{
+  "name": "agents",
+  "description": "Bootstrap the agent directives of a project.",
+  "author": {
+    "name": "Jacopo Filonzi"
+  },
+  "repository": "https://github.com/jacopofilonzi/agents"
+}

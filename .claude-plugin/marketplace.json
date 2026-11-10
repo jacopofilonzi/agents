@@ -1,0 +1,14 @@
+{
+  "name": "agents",
+  "description": "Personal Claude Code plugins.",
+  "owner": {
+    "name": "Jacopo Filonzi"
+  },
+  "plugins": [
+    {
+      "name": "agents",
+      "source": "./plugins/agents",
+      "description": "Bootstrap the agent directives of a project."
+    }
+  ]
+}
